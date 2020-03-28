@@ -1,6 +1,6 @@
 # KtHomework
 
-This is a set of offline problems loosely based off the [Gentle Kotlin](https://kotlin.cs.illinois.edu) course. 
+This is a set of offline problems loosely based off the [Joyful Kotlin](https://kotlin.cs.illinois.edu) course. 
 
 The `src/` folder has packages sorted by each lesson on the website. For each file read the comments given and get your score to full following the instructions on what to change and what not to change.
 
